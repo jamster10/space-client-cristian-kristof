@@ -22,7 +22,7 @@ The frontend uses:
 
 The project expects you have the Spaced repetition API project setup and running on http://localhost:8000.
 
-Find instructions to setup the API here https://github.com/Thinkful-Ed/spaced-repetition-api.
+Find instructions to setup the API here https://github.com/jamster10/space-api-cristian-kristof.
 
 ## Running project
 
